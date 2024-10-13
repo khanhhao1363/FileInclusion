@@ -81,7 +81,7 @@ Lỗ hổng xảy ra khi việc kiểm tra đầu vào không được chú tr�
     	
   1. Chỉ chấp nhận kí tự và số cho tên file (A-Z 0-9). Blacklist toàn bộ kí tự đặc biệt không được sử dụng.
      
-  2. Giới hạn API cho phép việc include file từ một chỉ mục xác định nhằm tránh directory traversal.
+  2. Giới hạn API cho phép việc include file nhằm tránh directory traversal.
 
 
 
